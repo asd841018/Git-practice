@@ -7,7 +7,5 @@ print(x+y)
 
 aa = 0
 bb = 1
-print(aa)
 
-
-print('Hello, world')
+print("I'm new one")
